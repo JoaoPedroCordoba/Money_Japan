@@ -1,0 +1,49 @@
+body{
+    margin: 0vh;
+    min-height: 100vh;
+    width: 450px;
+}
+
+.bloco{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    border: solid red 10px;
+    background-color: red;
+    color: red;
+    height: 230px;
+    border-bottom-left-radius: 80%;
+    border-bottom-right-radius: 80%;
+}
+
+#titulo{
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+}
+
+.text{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: x-large;
+}
+
+#moeda{
+    margin-left: 70px;
+}
+
+#tabela{
+    margin-left: 15px;
+    width: 390px;
+}
+
+#brasil{
+    width: 390px;
+    margin: 15px;
+}
+
+#import{
+    width: 390px;
+    margin-left:15px ;
+}
