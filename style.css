@@ -28,23 +28,26 @@ body{
     margin-left: 40px;
     margin-right: 40px;
     font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-#moeda{
-    margin-left: 70px;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+
 
 #tabela{
-
-    width: 390px;
+    width: 430px;
 }
 
 #brasil{
     width: 390px;
-    margin: 15px;
+    
 }
 
 #import{
     width: 390px;
-    margin-left:15px ;
 }
